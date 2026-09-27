@@ -1,7 +1,5 @@
 # Дамир Куздикенов
 
-Backend-разработчик: **Java / Kotlin**
-
 - Разработчик в Т-Банке
 - Студент ИТИС (Казань)
 - Основной стек: Java/Kotlin, Spring Boot, PostgreSQL
@@ -20,10 +18,7 @@ Backend-разработчик: **Java / Kotlin**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@be__2nd-26A5E4?logo=telegram&logoColor=white)](https://t.me/be_2nd)
 
-## Статистика
-
-![Stats](https://github-readme-stats.vercel.app/api?username=damirkuz&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damirkuz&layout=compact&theme=tokyonight&hide_border=true)
+## Змейка
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/damirkuz/damirkuz/output/github-contribution-grid-snake-dark.svg" />
