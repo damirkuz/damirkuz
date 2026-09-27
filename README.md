@@ -2,9 +2,9 @@
 
 Backend-разработчик: **Java / Kotlin**
 
-- Разработчик в Т-Банке, команда бэкенд-разработки
+- Разработчик в Т-Банке
 - Студент ИТИС (Казань)
-- Основной стек: Java 21+, Spring Boot, PostgreSQL; рядом Kotlin и Python
+- Основной стек: Java/Kotlin, Spring Boot, PostgreSQL
 
 ## Проекты
 
