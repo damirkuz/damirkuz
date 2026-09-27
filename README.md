@@ -11,7 +11,7 @@
 | [tbank-hw-link-tracker](https://github.com/damirkuz/tbank-hw-link-tracker) | Микросервисный Telegram-бот трекинга GitHub/StackOverflow | Java, Spring Boot, gRPC, Kafka, PostgreSQL, Valkey |
 | [food-diary](https://github.com/damirkuz/food-diary) | Дневник питания: расчёт КБЖУ, продукты из USDA/Open Food Facts | Kotlin, Spring Boot, Redis |
 | [TG_AI_Assistant](https://github.com/damirkuz/TG_AI_Assistant) | Семантический поиск по чатам + AI-досье на людей | Python, aiogram, FAISS, OpenAI |
-| [eco-zubr-bot](https://github.com/damirkuz/eco-zubr-bot) | Геймифицированный эко-бот для MAX (совместный проект) | Java, Spring Boot |
+| [eco-zubr-bot](https://github.com/damirkuz/eco-zubr-bot) | Геймифицированный эко-бот | Java, Spring Boot |
 | [DB-semester-work](https://github.com/damirkuz/DB-semester-work) | БД «Автосервис» + репликация, OLAP, Airflow, ClickHouse | SQL, Docker |
 
 ## Связь
